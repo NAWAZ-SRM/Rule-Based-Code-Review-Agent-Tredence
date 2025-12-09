@@ -13,7 +13,8 @@ Open the API docs at:
 http://127.0.0.1:8000/docs
 ```
 
-```markdown
+
+
 ## Manual Execution via Swagger UI
 
 You can exercise the full workflow step by step using the built-in docs at `http://127.0.0.1:8000/docs`.
