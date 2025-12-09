@@ -1,7 +1,8 @@
 ```markdown
 ## How to run
-
 ```
+
+```bash
 pip install -r requirements.txt
 python -m pytest -q
 python -m uvicorn app.main:app --reload
@@ -9,7 +10,7 @@ python -m uvicorn app.main:app --reload
 
 Open the API docs at:
 
-```
+```bash
 http://127.0.0.1:8000/docs
 ```
 
