@@ -5,7 +5,6 @@
     that form the sample workflow required by the assignment.
 """
 
-
 import ast
 from typing import List
 from ..core.models import WorkflowState  
